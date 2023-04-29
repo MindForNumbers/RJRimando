@@ -4288,14 +4288,6 @@ input, select, textarea {
 
 						#footer > section.split.contact > section.alt > :last-child {
 							margin-top: -0.325rem;
-							
-.split {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-
 						}
 
 		#footer form label,
